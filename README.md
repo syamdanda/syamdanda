@@ -1,2 +1,3 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=syamdanda&count_private=true&show_icons=true&hide=issues,contribs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
